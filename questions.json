@@ -1,0 +1,12 @@
+[
+  {"question": "What is the capital of France?", "options": ["Paris", "Rome", "Berlin", "Madrid"], "answer": "Paris"},
+  {"question": "What is 5 + 3?", "options": ["5", "6", "8", "9"], "answer": "8"},
+  {"question": "Which planet is known as the Red Planet?", "options": ["Earth", "Mars", "Jupiter", "Venus"], "answer": "Mars"},
+  {"question": "What is the color of the sky?", "options": ["Green", "Blue", "Red", "Yellow"], "answer": "Blue"},
+  {"question": "What is the largest animal?", "options": ["Elephant", "Blue Whale", "Tiger", "Giraffe"], "answer": "Blue Whale"},
+  {"question": "How many continents are there?", "options": ["5", "6", "7", "8"], "answer": "7"},
+  {"question": "What gas do plants breathe in?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"], "answer": "Carbon Dioxide"},
+  {"question": "Who wrote Harry Potter?", "options": ["J.K. Rowling", "Shakespeare", "Tagore", "Leo Tolstoy"], "answer": "J.K. Rowling"},
+  {"question": "Which is the largest ocean?", "options": ["Atlantic", "Pacific", "Indian", "Arctic"], "answer": "Pacific"},
+  {"question": "Which country invented pizza?", "options": ["India", "USA", "Italy", "China"], "answer": "Italy"}
+]
