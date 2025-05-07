@@ -42,4 +42,4 @@ python quiz_app.py
 
 ---
 
-👨‍💻 Created by Fawaz – Python & Data Analytics Freelancer
+👨‍💻 Created by Abdul Salam – Python & Data Analytics Freelancer
